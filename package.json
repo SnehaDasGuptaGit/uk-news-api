@@ -1,0 +1,23 @@
+{
+  "name": "uk-news-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "newsapi": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnehaDasGuptaGit/uk-news-api.git"
+  },
+  "author": "Sneha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnehaDasGuptaGit/uk-news-api/issues"
+  },
+  "homepage": "https://github.com/SnehaDasGuptaGit/uk-news-api#readme"
+}
