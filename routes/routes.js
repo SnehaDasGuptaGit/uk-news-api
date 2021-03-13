@@ -3,7 +3,7 @@
 const service = require("../services/service.js");
 
 const appRouter = function (app) {
-    app.get("/", async function(req, res) {
+    app.get("/news", async function(req, res) {
         let language = req.query.lang;
         let country = req.query.country;
         let querySearch = req.query.q;
