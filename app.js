@@ -13,3 +13,5 @@ routes(app);
 var server = app.listen(process.env.port, function () {
     console.log("App running on port.", server.address().port);
 });
+
+module.exports = app; // for testing
